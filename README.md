@@ -22,8 +22,6 @@ Then I ran linear ran a linear regression on each relationship in the Norther an
 * Northern Hemisphere - Wind Speed (mph) vs. Latitude
 * Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
-Your final notebook must:
-
 ### Part II - VacationPy
 
 To plan a fictional vacation to a city I used jupyter-gmaps and the Google Places API.
